@@ -8,4 +8,4 @@
 * sample font: mplus_reversed.ttf
 
 ## screenshot
-[image]: curse.png "test"
+[image]: https://github.com/uobikiemukot/curse_csa/raw/master/curse.png "test"
