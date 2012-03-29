@@ -1,0 +1,10 @@
+CFLAGS = -O3 -msse2 -pipe -I./SFMT -lm
+
+CC = gcc
+HDR = ../*.h
+OBJ = ../SFMT/SFMT.o
+
+all: $(PROG)
+
+clean:
+	rm -f $(PROG)
