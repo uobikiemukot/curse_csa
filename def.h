@@ -1,7 +1,6 @@
 /* common definition: struct, magic number, etc... */
 #include "sse.h"
 #include "common.h"
-#include "error.h"
 
 /* global data */
 #include "data.h"
