@@ -1,10 +1,8 @@
 # curse csa: ncurses interface for csa protocol
 
 ## requirements
-* ncurses >= 5.9
+* ncurses
 
 ## fonts
-in this program, "АБВГДЕЁЖЗИЙКЛМН" represent for
-"玉王飛龍角馬金銀全桂圭香杏歩と" (reversed)
-
-sample font: mplus_reversed.ttf
+* in this program, char list "АБВГДЕЁЖЗИЙКЛМН" represent for (reversed) "玉王飛龍角馬金銀全桂圭香杏歩と" 
+* sample font: mplus_reversed.ttf
